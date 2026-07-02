@@ -6,7 +6,7 @@
 
 ### `Desenvolvedor de Software / Engenharia de Dados`
 
-Estudante de Ciência da Computação (7º período) na **UEPB**, focado em **Engenharia de Dados** e **Desenvolvimento Web**. Interessado em sistemas distribuídos, pipelines de dados e aplicações escaláveis.
+Estudante de Ciência da Computação (7º período) na **UEPB**, focado em **Engenharia de Dados** e **Desenvolvimento Web**. Interessado em pipelines de dados e aplicações webs.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-lucasmaia.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasmaia.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Ferreira%20Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-maia-82a25b263)
@@ -14,26 +14,6 @@ Estudante de Ciência da Computação (7º período) na **UEPB**, focado em **En
 [![CV](https://img.shields.io/badge/CV-Download-success?style=for-the-badge&logo=readdotcv&logoColor=white)](https://lucasmaia.vercel.app/CV.pdf)
 
 </div>
-
----
-
-## 💻 about.ts
-
-```typescript
-const lucas = {
-  name: "Lucas Ferreira Maia",
-  age: 23,
-  location: "Campina Grande, PB - Brasil",
-  role: "Software Developer / Data Engineer",
-  education: "Ciência da Computação - UEPB (7º período)",
-  currentlyLookingFor: "Primeira oportunidade como desenvolvedor",
-  interests: [
-    "Sistemas distribuídos",
-    "Processamento de dados",
-    "Aplicações escaláveis"
-  ],
-};
-```
 
 ---
 
